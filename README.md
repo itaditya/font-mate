@@ -49,8 +49,6 @@ Best resource for **non designers** and designers to find which fonts they need.
 
 1. Nexa
 2. Product Sans
-3. Museo
-4. Anurati
 
 ## Brush/Script Style
 
