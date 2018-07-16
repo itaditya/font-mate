@@ -17,6 +17,9 @@ Best resource for **non designers** and designers to find which fonts they need.
 7. Metropolis
 8. Montserrat
 9. Brandon Text*
+10. Bebas
+11. Raleway*
+12. Antonio
 
 ## Body Text
 
@@ -40,11 +43,21 @@ Best resource for **non designers** and designers to find which fonts they need.
 
 1. Architect's Daughter
 2. Bringshoot
+3. Jenna Sue
 
 ## Eye Catching
 
 1. Nexa
 2. Product Sans
 3. Museo
+4. Anurati
+
+## Brush/Script Style
+
+1. Generation September
+2. Gloss And Bloom
+3. Maisha
+4. Good Vibes
+
 
 > *represents fonts that can be used for body text as well
