@@ -16,6 +16,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 6. Proxima Nova
 7. Metropolis
 8. Montserrat
+9. Brandon Text*
 
 ## Body Text
 
