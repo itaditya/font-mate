@@ -9,53 +9,54 @@ Best resource for **non designers** and designers to find which fonts they need.
 ## Headings
 
 1. Avenir*
-2. GT Walsheim*
-3. Circular Std*
-4. Museo Sans
-5. Gotham*
-6. Proxima Nova
-7. Metropolis
-8. Montserrat
-9. Brandon Text*
-10. Bebas
-11. Raleway*
-12. Antonio
+1. GT Walsheim*
+1. Circular Std*
+1. Lora
+1. Museo Sans
+1. Gotham*
+1. Proxima Nova
+1. Metropolis
+1. Montserrat
+1. Brandon Text*
+1. Bebas
+1. Raleway*
+1. Antonio
 
 ## Body Text
 
 1. Apercu
-2. Graphik
-3. IBM Plex Sans
-4. Nunito Sans
-5. Bahnschrift
-6. Roboto
-7. Helvetica
-8. Futura
+1. Graphik
+1. IBM Plex Sans
+1. Nunito Sans
+1. Bahnschrift
+1. Roboto
+1. Helvetica
+1. Futura
 
 ## For Logo
 
 1. Nexa
-2. Proxima Nova
-3. Trajan
-4. Objective
+1. Proxima Nova
+1. Trajan
+1. Objective
 
 ## Handwriting
 
 1. Architect's Daughter
-2. Bringshoot
-3. Jenna Sue
+1. Bringshoot
+1. Jenna Sue
 
 ## Eye Catching
 
 1. Nexa
-2. Product Sans
+1. Product Sans
 
 ## Brush/Script Style
 
 1. Generation September
-2. Gloss And Bloom
-3. Maisha
-4. Good Vibes
+1. Gloss And Bloom
+1. Maisha
+1. Good Vibes
 
 
 > *represents fonts that can be used for body text as well
