@@ -24,6 +24,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. Bebas
 1. Raleway*
 1. Antonio
+1. [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
 ## Body Text
 
