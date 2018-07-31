@@ -7,6 +7,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. Avenir
 1. [Poppins](https://fonts.google.com/specimen/Poppins)
 1. [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
+1. [Reem Kufi](https://fonts.google.com/specimen/Reem+Kufi?query=Reem+Kufi)
 
 ## Headings
 
