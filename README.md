@@ -5,6 +5,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 ## For Landing Pages with Illustrations (#1 2018 trend)
 
 1. Avenir
+1. [Poppins](https://fonts.google.com/specimen/Poppins)
 
 ## Headings
 
@@ -16,7 +17,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. Gotham*
 1. Proxima Nova
 1. Metropolis
-1. Montserrat
+1. [Montserrat](https://fonts.google.com/specimen/Montserrat)
 1. Brandon Text*
 1. Bebas
 1. Raleway*
