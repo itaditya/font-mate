@@ -43,6 +43,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. Trajan
 1. Objective
 1. [Pacifico](https://fonts.google.com/specimen/Pacifico)
+1. [Voltaire](https://fonts.google.com/specimen/Voltaire?query=Voltaire)
 
 ## Handwriting
 
