@@ -9,6 +9,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
 1. [Reem Kufi](https://fonts.google.com/specimen/Reem+Kufi?query=Reem+Kufi)
 1. [Archivo](https://fonts.google.com/specimen/Archivo)
+1. [Pontano Sans](https://fonts.google.com/specimen/Pontano+Sans)
 
 ## Headings
 
