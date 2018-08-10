@@ -27,6 +27,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. Raleway*
 1. Antonio
 1. [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+1. [Arimo](https://fonts.google.com/specimen/Arimo)
 
 ## Body Text
 
