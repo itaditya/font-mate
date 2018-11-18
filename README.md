@@ -29,6 +29,10 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 1. [Arimo](https://fonts.google.com/specimen/Arimo)
 
+## Paragraph like Heading
+
+1. [Muli](https://fonts.google.com/specimen/Muli)
+
 ## Body Text
 
 1. Apercu
