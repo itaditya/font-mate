@@ -71,5 +71,9 @@ Best resource for **non designers** and designers to find which fonts they need.
 1. Maisha
 1. Good Vibes
 
+## Thick Fonts
+
+1. [Bowlby One SC](https://fonts.google.com/specimen/Bowlby+One+SC)
+
 
 > *represents fonts that can be used for body text as well
