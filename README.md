@@ -5,6 +5,7 @@ Best resource for **non designers** and designers to find which fonts they need.
 ## For Landing Pages with Illustrations (#1 2018 trend)
 
 1. Avenir
+1. Sharpsansno1 book Font
 1. [Poppins](https://fonts.google.com/specimen/Poppins)
 1. [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
 1. [Reem Kufi](https://fonts.google.com/specimen/Reem+Kufi?query=Reem+Kufi)
